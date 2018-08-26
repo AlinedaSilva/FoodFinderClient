@@ -1,0 +1,6 @@
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderClient3\FoodFinderClient3\bin\Debug\FoodFinderClient3.exe.config
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderClient3\FoodFinderClient3\bin\Debug\FoodFinderClient3.exe
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderClient3\FoodFinderClient3\bin\Debug\FoodFinderClient3.pdb
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderClient3\FoodFinderClient3\obj\Debug\FoodFinderClient3.exe
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderClient3\FoodFinderClient3\obj\Debug\FoodFinderClient3.pdb
+C:\Users\New User\Documents\Higher Diploma in Computing Science - 022018\Final Project\FoodFinderClient3\FoodFinderClient3\obj\Debug\FoodFinderClient3.csprojResolveAssemblyReference.cache
